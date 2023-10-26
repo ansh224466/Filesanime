@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@FLAME_MAINCHATS ](https://www.telegram.dog/FLAME_MAINCHATS)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@FLAME_MAINCHAT ](https://www.telegram.dog/FLAME_MAINCHAT)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
