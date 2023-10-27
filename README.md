@@ -4,13 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/FLAME_MAINCHATS"
+  <a href="https://t.me/animechatgroup880"
     <img src="http://telegra.ph/file/195a8441009be1eca7470.jpg" width="250">
   </a><br>
-  <a href="https://t.me/FLAME_MAINCHATS">
+  <a href="https://t.me/animechatgroup880">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/Anime_Zilla_Chat">
+  <a href="https://t.me/animechatgroup880">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@FLAME_MAINCHAT ](https://www.telegram.dog/FLAME_MAINCHAT)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@animechatgroup880 ](https://www.telegram.dog/animechatgroup880)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/FLAME_MAINCHATS) For Support/Assistance And Our [Channel](https://www.telegram.dog/FLAME_MAINCHATS) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/animechatgroup880) For Support/Assistance And Our [Channel](https://www.telegram.dog/+b_x0Vx67P4IzZTI1) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
